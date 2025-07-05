@@ -67,3 +67,10 @@ Experienced in:
 
 ⚡ **Fun fact:** I write code by day and paint with colours by night — one builds logic, the other builds peace.
 
+---
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirva-Patel&layout=compact&hide_border=true&langs_count=7)](https://github.com/Nirva-Patel/github-readme-stats)
+
+---
